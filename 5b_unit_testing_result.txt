@@ -1,0 +1,24 @@
+Statement: I am glad this happened
+Expected Emotion: joy
+Detected Emotion: joy
+Test Passed
+
+Statement: I am really mad about this
+Expected Emotion: anger
+Detected Emotion: anger
+Test Passed
+
+Statement: I feel disgusted just hearing about this
+Expected Emotion: disgust
+Detected Emotion: disgust
+Test Passed
+
+Statement: I am so sad about this
+Expected Emotion: sadness
+Detected Emotion: sadness
+Test Passed
+
+Statement: I am really afraid that this will happen
+Expected Emotion: fear
+Detected Emotion: fear
+Test Passed
